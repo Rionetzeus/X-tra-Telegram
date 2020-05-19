@@ -1,4 +1,4 @@
-"""COMMAND : .kill"""
+"""COMMAND : .killa"""
 
 from telethon import events
 
